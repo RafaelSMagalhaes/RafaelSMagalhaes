@@ -1,21 +1,242 @@
-# 💫 About Me:
-👋 <b>E aí, tudo bem?</b><br>Bem-vindo ao meu perfil! Aqui você vai acompanhar minha jornada para me tornar um Programador Full-Stack. Ah, e só para avisar, eu tenho apenas 16 anos, então vamos com calma, beleza? 😅<br><br><b>O que estou aprendendo no momento:</b><br>🐍 Python: Automação, scripts e desenvolvimento de software<br>🌐 HTML e CSS: Criação de websites e front-end<br>🛠️ Desenvolvimento de Sistemas: Construindo uma base sólida para projetos de tecnologia<br><br><b>Meus objetivos:</b><br>🚀 Expandir meus conhecimentos em desenvolvimento full-stack<br>🤝 Contribuir para projetos open-source<br>💡 Criar uma empresa de tecnologia inovadora<br>🏆 Atingir um alto nível como programador
+<div align="center">
 
+<img src="./banner.png" width="100%" alt="Rafael S. Magalhães — Estudante de Engenharia de Software" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rafsm1877) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eurafae_l) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raf088&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raf088&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raf088&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="👋" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raf088&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Oi, eu sou o Rafael!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1100&color=2DE28B&center=true&vCenter=true&width=640&lines=Curioso+por+natureza;Estudante+de+Engenharia+de+Software;Python+%E2%80%A2+SQL+%E2%80%A2+IA;Transformando+curiosidade+em+c%C3%B3digo" alt="typing" />
+
+<br/>
+
+![UniJorge](https://img.shields.io/badge/UniJorge-Eng.%20de%20Software-0a0506?style=for-the-badge&logo=googlescholar&logoColor=2de28b&labelColor=0a0506&color=7a1018)
+![Camaçari](https://img.shields.io/badge/Camaçari-Bahia-0a0506?style=for-the-badge&logo=googlemaps&logoColor=2de28b&labelColor=0a0506&color=7a1018)
+![Foco](https://img.shields.io/badge/Foco-Python%20%7C%20SQL%20%7C%20IA-0a0506?style=for-the-badge&logo=python&logoColor=2de28b&labelColor=0a0506&color=7a1018)
+
+[![GitHub](https://img.shields.io/badge/GitHub-RafaelSMagalhaes-0a0506?style=for-the-badge&logo=github&logoColor=f5f0ee&labelColor=0a0506&color=2a1215)](https://github.com/RafaelSMagalhaes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0a0506?style=for-the-badge&logo=linkedin&logoColor=f5f0ee&labelColor=0a0506&color=2a1215)](https://linkedin.com/in/SEU_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/E--mail-Falar%20comigo-0a0506?style=for-the-badge&logo=gmail&logoColor=f5f0ee&labelColor=0a0506&color=2a1215)](mailto:SEU_EMAIL)
+
+<img src="https://komarev.com/ghpvc/?username=RafaelSMagalhaes&label=Visitas&color=7a1018&style=flat-square&labelColor=0a0506" alt="visitas" />
+
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Raf088&icon=6&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="30" alt="🧠" />
+  Minha história
+</h2>
+
+> *"Eu não desistia até entender o porquê de cada coisa."*
+
+Sou **estudante de Engenharia de Software na UniJorge**, moro em **Camaçari, na Bahia**. Desde criança tive uma curiosidade enorme em descobrir **como as coisas funcionavam**, e não largava o osso até entender o porquê de cada detalhe.
+
+No ensino médio, chegou a hora de escolher por onde trilhar meu futuro, e eu vou ser sincero: **fiquei inseguro**. Passei por várias áreas (economia, investimentos, futebol, design, marketing, edição de vídeo e até como professor 😅) e levei algo de cada uma comigo.
+
+Foi na **tecnologia** que encontrei a forma de unir todas essas experiências. Hoje vejo a programação como uma ferramenta que **muda meu futuro** e **abre portas** para eu trabalhar com o que eu quiser, me dando **versatilidade** nas escolhas que vêm pela frente.
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="30" alt="💡" />
+  Por que programação?
+</h2>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="48" alt="🚀" />
+
+**Muda o futuro**
+
+Uma ferramenta que transforma carreira e abre caminhos.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6aa/512.gif" width="48" alt="🚪" />
+
+**Abre portas**
+
+Dá para atuar em qualquer área: finanças, design, educação, esporte...
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ad/512.gif" width="48" alt="🎭" />
+
+**Versatilidade**
+
+Visão de várias áreas aplicada em soluções com código.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" alt="💻" />
+  Stack
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,git,github,html,css,js,vscode,figma,ps&theme=dark" alt="Python, SQL, SQLite, Git, GitHub, HTML, CSS, JavaScript, VS Code, Figma, Photoshop" />
+</p>
+
+<p align="center">
+  <sub>Python · SQL · SQLite · Git · GitHub · HTML · CSS · JavaScript · VS Code · Figma · Photoshop</sub>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="30" alt="🌱" />
+  Agora
+</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📚 Estudando**
+
+Engenharia de Software, Python, SQL e fundamentos de IA.
+
+</td>
+<td width="33%" valign="top">
+
+**🛠️ Construindo**
+
+Projetos pessoais para praticar o que aprendo, com código limpo e organizado.
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Buscando**
+
+Oportunidade de estágio e projetos para evoluir junto com um time.
+
+</td>
+</tr>
+</table>
+
+```python
+class Rafael:
+    curso      = "Engenharia de Software · UniJorge"
+    cidade     = "Camaçari, BA 🇧🇷"
+    foco       = ["Python", "SQL", "IA"]
+    superpoder = "curiosidade que não desiste"
+
+    def aprender(self):
+        while not self.entendeu_o_porque:
+            self.estudar()
+            self.construir()
+        return "próximo desafio"
+```
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="30" alt="🎯" />
+  Metas
+</h2>
+
+- [x] Entrar na faculdade de Engenharia de Software
+- [x] Descobrir na programação o meu caminho
+- [ ] Concluir a graduação
+- [ ] Publicar projetos com Python e SQL aqui no GitHub
+- [ ] Conquistar a primeira oportunidade de estágio
+- [ ] Aprofundar em Inteligência Artificial
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" alt="🔥" />
+  Projetos em destaque
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/RafaelSMagalhaes/NOME_DO_PROJETO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelSMagalhaes&repo=NOME_DO_PROJETO_1&bg_color=0a0506&border_color=2a1215&title_color=2de28b&text_color=d9cfcb&icon_color=e5484d" alt="Projeto 1" />
+</a>
+<a href="https://github.com/RafaelSMagalhaes/NOME_DO_PROJETO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelSMagalhaes&repo=NOME_DO_PROJETO_2&bg_color=0a0506&border_color=2a1215&title_color=2de28b&text_color=d9cfcb&icon_color=e5484d" alt="Projeto 2" />
+</a>
+
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30" alt="📊" />
+  GitHub em números
+</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelSMagalhaes&show_icons=true&border_color=2a1215&bg_color=0a0506&title_color=2de28b&text_color=d9cfcb&icon_color=e5484d&count_private=true" alt="estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSMagalhaes&layout=compact&border_color=2a1215&bg_color=0a0506&title_color=2de28b&text_color=d9cfcb" alt="linguagens" />
+
+<img src="https://streak-stats.demolab.com?user=RafaelSMagalhaes&border=2a1215&background=0a0506&ring=2de28b&fire=e5484d&currStreakNum=f5f0ee&sideNums=f5f0ee&currStreakLabel=2de28b&sideLabels=9a8f8c&dates=9a8f8c" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelSMagalhaes&bg_color=0a0506&color=f5f0ee&line=e5484d&point=2de28b&area_color=e5484d&area=true&title_color=2de28b&hide_border=true" width="100%" alt="atividade" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>✨ Curiosidades sobre mim</b></summary>
+
+<br/>
+
+- 🧩 Gosto de desmontar problemas até entender cada peça
+- ⚽ Futebol faz parte da minha história
+- 🎨 Design e edição de vídeo me ensinaram a cuidar da apresentação
+- 📈 Economia e investimentos despertaram meu lado analítico
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0a0506&text_color=d9cfcb&border_color=2a1215&quote_color=2de28b" alt="frase do dia" />
+
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" alt="🤝" />
+  Vamos conversar?
+</h2>
+
+<p align="center">
+  Aberto a estágios, projetos e boas conversas sobre tecnologia.
+</p>
+
+<p align="center">
+  <a href="https://github.com/RafaelSMagalhaes"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" /></a>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1018,100:0a0506&height=110&section=footer" width="100%" alt="footer" />
+
+<sub>Feito com curiosidade e muito café ☕</sub>
+
+</div>
