@@ -20,70 +20,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0a0506?style=for-the-badge&logo=linkedin&logoColor=f5f0ee&labelColor=0a0506&color=2a1215)](https://linkedin.com/in/SEU_LINKEDIN)
 [![E-mail](https://img.shields.io/badge/E--mail-Falar%20comigo-0a0506?style=for-the-badge&logo=gmail&logoColor=f5f0ee&labelColor=0a0506&color=2a1215)](mailto:SEU_EMAIL)
 
-<img src="https://komarev.com/ghpvc/?username=RafaelSMagalhaes&label=Visitas&color=7a1018&style=flat-square&labelColor=0a0506" alt="visitas" />
-
 </div>
 
 <br/>
 
----
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="30" alt="🧠" />
-  Minha história
+  Sobre Mim 
 </h2>
 
-> *"Eu não desistia até entender o porquê de cada coisa."*
+> "Eu não desistia até entender o porquê de cada coisa."
 
-Sou **estudante de Engenharia de Software na UniJorge**, moro em **Camaçari, na Bahia**. Desde criança tive uma curiosidade enorme em descobrir **como as coisas funcionavam**, e não largava o osso até entender o porquê de cada detalhe.
+Sou estudante de Engenharia de Software na UniJorge e tenho interesse em desenvolvimento de software, análise de dados e inteligência artificial.
 
-No ensino médio, chegou a hora de escolher por onde trilhar meu futuro, e eu vou ser sincero: **fiquei inseguro**. Passei por várias áreas (economia, investimentos, futebol, design, marketing, edição de vídeo e até como professor 😅) e levei algo de cada uma comigo.
+Minha curiosidade sempre me levou a explorar diferentes áreas. Ao longo do tempo, passei por interesses como economia, investimentos, futebol e design. Cada experiência acrescentou uma perspectiva diferente à maneira como observo problemas e busco soluções.
 
-Foi na **tecnologia** que encontrei a forma de unir todas essas experiências. Hoje vejo a programação como uma ferramenta que **muda meu futuro** e **abre portas** para eu trabalhar com o que eu quiser, me dando **versatilidade** nas escolhas que vêm pela frente.
+Foi na programação que encontrei uma forma de conectar essa curiosidade à prática: entender problemas, construir soluções e aprender continuamente.
 
+Atualmente, estou desenvolvendo minha base técnica com Python, SQL e SQLite, aplicando o que estudo em projetos pessoais e buscando uma oportunidade de estágio para evoluir em um ambiente profissional.
 <br/>
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="30" alt="💡" />
-  Por que programação?
-</h2>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="48" alt="🚀" />
-
-**Muda o futuro**
-
-Uma ferramenta que transforma carreira e abre caminhos.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6aa/512.gif" width="48" alt="🚪" />
-
-**Abre portas**
-
-Dá para atuar em qualquer área: finanças, design, educação, esporte...
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ad/512.gif" width="48" alt="🎭" />
-
-**Versatilidade**
-
-Visão de várias áreas aplicada em soluções com código.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" alt="💻" />
   Stack
 </h2>
 
@@ -98,36 +55,16 @@ Visão de várias áreas aplicada em soluções com código.
 <br/>
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="30" alt="🌱" />
-  Agora
+  Atualmente
 </h2>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**📚 Estudando**
-
-Engenharia de Software, Python, SQL e fundamentos de IA.
-
-</td>
-<td width="33%" valign="top">
-
-**🛠️ Construindo**
-
-Projetos pessoais para praticar o que aprendo, com código limpo e organizado.
-
-</td>
-<td width="33%" valign="top">
-
-**🎯 Buscando**
-
-Oportunidade de estágio e projetos para evoluir junto com um time.
-
-</td>
-</tr>
-</table>
-
+| Área | Foco |
+|---|---|
+| Formação | Engenharia de Software — UniJorge |
+| Desenvolvimento | Python, SQL e fundamentos de programação |
+| Prática | Projetos pessoais e organização de código |
+| Explorando | Inteligência Artificial e análise de dados |
+| Objetivo | Primeira oportunidade profissional em tecnologia |
 ```python
 class Rafael:
     curso      = "Engenharia de Software · UniJorge"
